@@ -50,12 +50,12 @@ cover.html
                 </div>
                 
                 <div class="content">
-                    <p>Feasibility Report on a New Factory Floor Hazard Identification System</p>
+                    <p>Future of Artificial Intelligence</p>
                 </div>
                 <br>
                 <div class="subtitle">
                     <h3>
-                     A Six-Month Transition Plan for Employee-Centric Training
+                     automatically generated on-screen text created by artificial intelligence
                     </h3>
                    
                 </div>
@@ -88,7 +88,7 @@ body{
     background-clip: border-box;
     background-position-x: right;
     background-size: cover;  
-    height: 720px;
+    height: 700px;
     width: 500px;
     position: relative;
     left: 500px;
@@ -163,7 +163,7 @@ body{
 
 ```
 ## OUTPUT:
-![alt text](<Screenshot (51).png>)
+![alt text](<Screenshot (52).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
