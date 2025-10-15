@@ -36,7 +36,7 @@ cover.html
 
 <html>
     <head>
-        <link rel="stylesheet" href="stylesheet.css">
+        <link rel="stylesheet" href="style.css">
         <title>Fundamental of web application development</title>
     </head>
     <body>
@@ -50,12 +50,12 @@ cover.html
                 </div>
                 
                 <div class="content">
-                    <p>HYPERLOOP IS NEXT <br> GENERATION HIGH SPEED <br> TRANSPORTATION SYSTEM</p>
+                    <p>Feasibility Report on a New Factory Floor Hazard Identification System</p>
                 </div>
                 <br>
                 <div class="subtitle">
                     <h3>
-                     "Faster than flights,greener than cars"
+                     A Six-Month Transition Plan for Employee-Centric Training
                     </h3>
                    
                 </div>
@@ -75,7 +75,7 @@ cover.html
     </body>
 </html>
 
-stylesheet.css
+style.css
 
 body{
     
@@ -163,7 +163,7 @@ body{
 
 ```
 ## OUTPUT:
-![alt text](<Screenshot (30)-1.png>)
+![alt text](<Screenshot (51).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
